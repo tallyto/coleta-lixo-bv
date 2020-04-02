@@ -1,70 +1,70 @@
 [
-    {
-        "id": "1",
-        "name": "ALVORADA"
-    },
-    {
-        "id": "2",
-        "name": "CAMBARÁ"
-    },
-    {
-        "id": "3",
-        "name": "CAUAMÉ"
-    },
-    {
-        "id": "4",
-        "name": "CIDADE SATÉLITE"
-    },
-    {
-        "id": "5",
-        "name": "CRUVIANA"
-    },
-    {
-        "id": "6",
-        "name": "DR. SÍLVIO LEITE"
-    },
-    {
-        "id": "7",
-        "name": "EQUATORIAL"
-    },
-    {
-        "id": "8",
-        "name": "JARDIM CARANA"
-    },
-    {
-        "id": "9",
-        "name": "JARDIM PRIMAVERA"
-    },
-    {
-        "id": "10",
-        "name": "MURILO TEIXEIRA CIDADE"
-    },
-    {
-        "id": "11",
-        "name": "NOVA CANAÃ (PARCIAL)"
-    },
-    {
-        "id": "12",
-        "name": "NOVA ESPERANCA"
-    },
-    {
-        "id": "13",
-        "name": "PINTOLÂNDIA (PARCIAL)"
-    },
-    {
-        "id": "14",
-        "name": "PISCICULTURA"
-    },
-    {
-        "id": "15",
-        "name": "SANTA LUZIA"
-    },
-    {
-        "id": "16",
-        "name": "SANTA TERESA"
-    },
-    {
-        "id": "17",
-        "name": "UNIÃO"
-    }
+  {
+    "id": "1",
+    "name": "ALVORADA"
+  },
+  {
+    "id": "2",
+    "name": "CAMBARÁ"
+  },
+  {
+    "id": "3",
+    "name": "CAUAMÉ"
+  },
+  {
+    "id": "4",
+    "name": "CIDADE SATÉLITE"
+  },
+  {
+    "id": "5",
+    "name": "CRUVIANA"
+  },
+  {
+    "id": "6",
+    "name": "DR. SÍLVIO LEITE"
+  },
+  {
+    "id": "7",
+    "name": "EQUATORIAL"
+  },
+  {
+    "id": "8",
+    "name": "JARDIM CARANA"
+  },
+  {
+    "id": "9",
+    "name": "JARDIM PRIMAVERA"
+  },
+  {
+    "id": "10",
+    "name": "MURILO TEIXEIRA CIDADE"
+  },
+  {
+    "id": "11",
+    "name": "NOVA CANAÃ (PARCIAL)"
+  },
+  {
+    "id": "12",
+    "name": "NOVA ESPERANCA"
+  },
+  {
+    "id": "13",
+    "name": "PINTOLÂNDIA (PARCIAL)"
+  },
+  {
+    "id": "14",
+    "name": "PISCICULTURA"
+  },
+  {
+    "id": "15",
+    "name": "SANTA LUZIA"
+  },
+  {
+    "id": "16",
+    "name": "SANTA TERESA"
+  },
+  {
+    "id": "17",
+    "name": "UNIÃO"
+  }
 ]
